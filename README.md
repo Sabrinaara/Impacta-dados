@@ -16,6 +16,7 @@ Sabrina Araújo de Souza  </br>
 # Contexto 🤵‍♀️: </br>
 No projeto final do curso de análise e desenvolvimento de sistemas foram utilizadas bases de dados de gastos de deputados federais.
 
+# Visualização de Dados 💻: </br>
 
 
 
