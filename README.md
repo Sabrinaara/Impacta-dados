@@ -14,9 +14,12 @@ Laryssa Moraes Martins Barozzi </br>
 Sabrina Araújo de Souza  </br>
 
 # Contexto 🤵‍♀️: </br>
-No projeto final do curso de análise e desenvolvimento de sistemas foram utilizadas bases de dados de gastos de deputados federais.
+O objetivo do projeto é realizar uma análise dos gastos parlamentares, utilizando os dados abertos fornecidos pela Câmara dos Deputados do Brasil.</br>
 
 # Visualização de Dados 💻: </br>
-
+- Dados Macro: Overview </br>
+- Detalhamento: Gasto por Partido </br>
+- Detalhamento: Gasto por Estado </br>
+- Detalhamento: Rankings </br>
 
 
