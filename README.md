@@ -1,4 +1,4 @@
-![image](https://github.com/Sabrinaara/Impacta-dados/assets/105326626/e4a02086-d398-4dc9-b379-c962f2646ee1)
+![image](https://github.com/Sabrinaara/Impacta-dados/blob/main/Analize%20de%20gastos%20dos%20deputados.gif?raw=true)
 
 
 # Matéria:
