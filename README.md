@@ -17,7 +17,7 @@ Sabrina Araújo de Souza  </br>
 O objetivo do projeto é realizar uma análise dos gastos parlamentares, utilizando os dados abertos fornecidos pela Câmara dos Deputados do Brasil.</br>
 
 # Visualização de Dados 💻: </br>
-- Dados Macro: Overview </br>
+- Dados Macro: Overview ✅ </br>
 - Detalhamento: Gasto por Partido </br>
 - Detalhamento: Gasto por Estado </br>
 - Detalhamento: Rankings </br>
