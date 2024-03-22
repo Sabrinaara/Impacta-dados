@@ -22,4 +22,10 @@ O objetivo do projeto é realizar uma análise dos gastos parlamentares, utiliza
 - Detalhamento: Gasto por Estado </br>
 - Detalhamento: Rankings </br>
 
+# Gravação da Funcionalidade 🎥: </br>
+- https://drive.google.com/drive/folders/17CfeodFGUq76UHAq0XxCsfKJ9QgR2DVh </br>
+
+# Trello 🖼️: </br>
+- [Board](https://trello.com/b/8jKzL5WK/software-product-analysis-specification-project) </br>
+
 
