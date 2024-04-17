@@ -18,7 +18,7 @@ O objetivo do projeto é realizar uma análise dos gastos parlamentares, utiliza
 
 # Visualização de Dados 💻: </br>
 - Dados Macro: Overview ✅ </br>
-- Detalhamento: Gasto por Partido </br>
+- Detalhamento: Gasto por Partido ✅ </br>
 - Detalhamento: Gasto por Estado </br>
 - Detalhamento: Rankings </br>
 
